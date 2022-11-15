@@ -16,3 +16,16 @@ h2{
     margin-top: 0px;
     margin-bottom: 20px;
 }
+
+#btn{
+    background-color: rgb(117, 26, 26);
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+    margin-top:5px;
+    cursor: pointer;
+}
