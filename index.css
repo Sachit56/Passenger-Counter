@@ -17,8 +17,7 @@ h2{
     margin-bottom: 20px;
 }
 
-#btn{
-    background-color: rgb(117, 26, 26);
+button{
     width: 200px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -26,6 +25,20 @@ h2{
     border-radius: 5px;
     color:white;
     font-weight: bold;
-    margin-top:5px;
+    margin-bottom:5px;
     cursor: pointer;
+} 
+
+#btn{
+    background:rgb(23, 224, 67);
+}
+
+#save-btn{
+    background-color: rgb(99, 99, 211);
+}
+
+#previous{
+    margin-top: 110px;
+    color: rgb(47, 90, 6);
+    font-size: 1.4rem;
 }
